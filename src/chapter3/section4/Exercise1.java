@@ -2,6 +2,9 @@ package chapter3.section4;
 import edu.princeton.cs.algs4.SequentialSearchST;
 import edu.princeton.cs.algs4.StdOut;
 
+// Because we know that the key is int and the value is String,
+// so I didn't write it in generic way.
+
 public class Exercise1 {
     private int N;
     private int M;
